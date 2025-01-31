@@ -1,12 +1,14 @@
 Projeto Imobiliária (Elysium Imóveis)
 Lara, Beatriz, Ingrid, Yasmim. e Leandro.
+
 Instrutor: Hudson Neves
+
 Análise e desenvolvimento de sistemas, Senac Jessé Freire.
 
 banner vídeo (https://drive.google.com/file/d/1o14NCw2GEMM0Bzflv10kxvsLaRj_51Bg/view?usp=sharing)
 
 
- Review rápido do site de imobiliária Elysium, considerando os aspectos de usabilidade, design e funcionalidades:
+Review - site de imobiliária Elysium, considerando os aspectos de usabilidade, design e funcionalidades:
 
 
 O site da Elysium Imóveis possui um design limpo e intuitivo, com uma navegação simples e um filtro de imóveis funcional que se adapta bem a dispositivos móveis. Os cards de imóveis são informativos e visualmente atraentes, apresentando detalhes essenciais como localização, avaliações e facilidades. O layout é profissional, com uma paleta de cores elegante e call-to-action claros, como os botões "Ver mais" e "Agendar Visita". O rodapé também é completo, com informações de contato e redes sociais.
